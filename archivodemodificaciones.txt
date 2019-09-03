@@ -1,3 +1,8 @@
 "Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 
 danielch4."
+Valerialadron
+El repositorio remoto actualizado se puede encontrar en las url's
+
+https://github.com/valerialadron/tarea_colaborativo
+https://github.com/danielch4/tarea_colaborativo
